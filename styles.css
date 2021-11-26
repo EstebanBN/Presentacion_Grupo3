@@ -143,6 +143,10 @@ footer {
         font-weight: bold;
     }
 
+    .container {
+        padding-top: 5%;
+    }
+
     .fotos {
         background-color: rgb(29, 38, 45);
     }
@@ -176,9 +180,10 @@ footer {
         background-color: rgb(29, 38, 45);
         width: 100%;
         position: fixed;
-        margin-top: -7%;
+        margin-top: -10%;
         align-items: center;
         z-index: 10000;
+        padding: 2%; 
     }
 
     .w3-center {
@@ -190,6 +195,11 @@ footer {
         font-family:'Times New Roman', Times, serif;    
         font-weight: bold;
     }
+
+    .container {
+        padding-top: 10%;
+    }
+
     .mySlides {
         display: none;
         width: 100%;
