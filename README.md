@@ -2,4 +2,4 @@
 ## Proyecto creado con HTML, CSS, JS
 🔥Portada
 
-![imagenes](captura.png)
+![](captura.PNG)
